@@ -1,7 +1,5 @@
-Bachelor's degree program **"Computer Science and Technology for Software Production"**
-
-**Development of a java application for the subject "Programming II"**
-
+# **Development of a java application for the subject "Programming II"**
+## Bachelor's degree program **"Computer Science and Technology for Software Production"**
 
 Making an application that allows employees of a company to sell and rent smartphones. All the smartphones are of the same brand and 3 different types: basic, medium, advanced.
 In particular, the medium type is characterized by having, in addition to the basic model, a dual camera, while the advanced type for having, in addition to the basic model, both voice recognition and recognition
